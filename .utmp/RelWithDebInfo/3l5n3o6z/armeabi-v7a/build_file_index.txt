@@ -1,0 +1,2 @@
+C:\Users\melan\Desktop\progetto inf-vis\ARtento\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\CMakeLists.txt
+C:\Users\melan\Desktop\progetto inf-vis\ARtento\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt

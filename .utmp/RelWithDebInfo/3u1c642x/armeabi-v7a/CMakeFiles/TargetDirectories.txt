@@ -1,0 +1,5 @@
+C:/Personal/Files/UnityProject/ARtento/ARtento/.utmp/RelWithDebInfo/3u1c642x/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Personal/Files/UnityProject/ARtento/ARtento/.utmp/RelWithDebInfo/3u1c642x/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Personal/Files/UnityProject/ARtento/ARtento/.utmp/RelWithDebInfo/3u1c642x/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Personal/Files/UnityProject/ARtento/ARtento/.utmp/RelWithDebInfo/3u1c642x/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Personal/Files/UnityProject/ARtento/ARtento/.utmp/RelWithDebInfo/3u1c642x/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir

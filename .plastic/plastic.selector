@@ -1,0 +1,3 @@
+rep "ARtento/ARtento@6872429303702@cloud"
+  path "/"
+    smartbranch "/main/secondaria"

@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\arplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\arplacementmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|c:\\personal\\files\\unityproject\\artento\\artento\\assets\\scripts\\visualsearchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\visualsearchmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\memoryexercisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\memoryexercisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\menumanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\baseexercisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\baseexercisemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\assets\\scripts\\selectableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAC1D14-DD54-0DD0-4468-83C6EF2911B0}|Assembly-CSharp.Player.csproj|solutionrelative:assets\\scripts\\selectableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MenuManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\MenuManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MenuManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:24:45.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SelectableObject.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\SelectableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SelectableObject.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\SelectableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SelectableObject.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:08:26.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARPlacementManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\ARPlacementManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ARPlacementManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\ARPlacementManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ARPlacementManager.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T11:03:33.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemoryExerciseManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\MemoryExerciseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MemoryExerciseManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\MemoryExerciseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MemoryExerciseManager.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAApwC8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T10:56:54.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:41:29.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseExerciseManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\BaseExerciseManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseExerciseManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\BaseExerciseManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseExerciseManager.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:41:21.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VisualSearchManager.cs",
+              "DocumentMoniker": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\VisualSearchManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VisualSearchManager.cs",
+              "ToolTip": "C:\\Personal\\Files\\UnityProject\\ARtento\\ARtento\\Assets\\Scripts\\VisualSearchManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VisualSearchManager.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T18:39:43.092Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
