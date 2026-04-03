@@ -2,7 +2,7 @@
 
 An Augmented Reality (AR) mobile application designed to improve attention, memory, and reaction skills through interactive exercises.
 
-Developed as part of a Master's degree exam in Computer Science (Information Visualization course, a.y. 2025/2026).
+Developed as part of a Master's degree exam in Computer Science (Information Visualization course, a.y. 2025/2026) by a team of 3 students.
 
 ---
 
@@ -90,6 +90,19 @@ The application is structured into modular components:
 
 4. **Feedback & Results**  
    Immediate feedback is provided, followed by performance statistics.
+
+---
+
+## 📸 Screenshots
+Main Screen
+<img width="628" height="1066" alt="image" src="https://github.com/user-attachments/assets/c6d41b9e-e367-48bd-8f4c-f294b3c8f583" />
+Visual Search Game
+<img width="717" height="1179" alt="image" src="https://github.com/user-attachments/assets/0d3ef2ac-1693-4d0d-88d5-9978cc3eaea9" />
+Memory Game
+<img width="716" height="1179" alt="image" src="https://github.com/user-attachments/assets/b48bb53d-217e-4f6d-8f3f-4431781380e7" />
+Scoreboard
+<img width="525" height="1004" alt="image" src="https://github.com/user-attachments/assets/85753cfe-b96e-47ee-a9c8-91124118e25a" />
+
 
 ---
 
