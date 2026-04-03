@@ -94,15 +94,10 @@ The application is structured into modular components:
 ---
 
 ## 📸 Screenshots
-Main Screen
-<img width="628" height="1066" alt="image" src="https://github.com/user-attachments/assets/c6d41b9e-e367-48bd-8f4c-f294b3c8f583" />
-Visual Search Game
-<img width="717" height="1179" alt="image" src="https://github.com/user-attachments/assets/0d3ef2ac-1693-4d0d-88d5-9978cc3eaea9" />
-Memory Game
-<img width="716" height="1179" alt="image" src="https://github.com/user-attachments/assets/b48bb53d-217e-4f6d-8f3f-4431781380e7" />
-Scoreboard
-<img width="525" height="1004" alt="image" src="https://github.com/user-attachments/assets/85753cfe-b96e-47ee-a9c8-91124118e25a" />
 
+| Main Screen | Visual Search Game | Memory Game | Scoreboard |
+| :---: | :---: | :---: | :---: |
+| <img src="https://github.com/user-attachments/assets/c6d41b9e-e367-48bd-8f4c-f294b3c8f583" width="200" /> | <img src="https://github.com/user-attachments/assets/0d3ef2ac-1693-4d0d-88d5-9978cc3eaea9" width="200" /> | <img src="https://github.com/user-attachments/assets/b48bb53d-217e-4f6d-8f3f-4431781380e7" width="200" /> | <img src="https://github.com/user-attachments/assets/85753cfe-b96e-47ee-a9c8-91124118e25a" width="200" /> |
 
 ---
 
